@@ -35,7 +35,7 @@ Pour me partager votre dépot , forker mon dépot de la foad et ajouter votre ur
 
 ##  Mon url du jeu
 
-Mettre son l'url de votre dépot github.
+Mettre son l'url de votre dépot github  URL :127.0.0.1:5500/jeu-javascript/
 
 ## Jeu en javascript
 
